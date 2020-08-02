@@ -51,5 +51,5 @@
 
 # ![8](images/root_flag(2).jpg?raw=true "root")
 
-**We got our access and that's our root flag and the box is over. Lot of thanks to the creator, Fsociety2006, a good box for the very beginners**
+**We got our access and that's our root flag and the box is over. Lot of thanks to the creator, Fsociety2006, for this good box for the very beginners**
 
