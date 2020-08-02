@@ -29,6 +29,8 @@
 
 # ![4](images/hydra.jpg?raw=true "hydra")
 
+## User escalation
+
 + **So here we got some ssh credentials. Let's connect on the ssh service and run a** ``sudo -l`` **command on the jake user**
 
 # ![5](images/less.jpg?raw=true "less")
@@ -38,6 +40,8 @@
 ``sudo less /home/holt/user.txt``
 
 # ![6](images/user_flag(1).jpg?raw=true "user")
+
+## Root escalation
 
 + **And here it is our first flag. We can also use less to get a privesc and get root access. Let's read a file with less**
 
