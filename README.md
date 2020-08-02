@@ -1,5 +1,6 @@
 # 'Brooklyn-Nine-Nine' box writeup
 ## Brooklyn Nine Nine is a CTF box written by Fsociety2006 and available on the [TryHackMe](https://tryhackme.com/) platform.
+## Read about [Less Command](https://linuxize.com/post/less-command-in-linux/) and [Privilege Escalation using find, vim, less or bash](https://pentestlab.blog/category/privilege-escalation/)
 # ![bg](images/background.jpeg?raw=true "Title")
 
 ## Foothold
@@ -51,7 +52,4 @@
 # ![8](images/root_flag(2).jpg?raw=true "root")
 
 **We got our access and that's our root flag and the box is over. Lot of thanks to the creator, Fsociety2006, a good box for the very beginners**
-
-
-
 
